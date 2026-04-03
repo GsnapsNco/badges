@@ -1,0 +1,43 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://github.com/GsnapsNco/badge/assertions/25-CTFL-00224-USA_9e8c729d10914ea7a1c334ad80a6660c.json",
+  "recipient": {
+    "type": "id",
+    "identity": "sha256$e929c77e8178c71fc181248ed8538feb1b826e02af46162add91e93108e1ed68",
+    "hashed": true,
+    "salt": "openbadge2025"
+  },
+  "badge": {
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://github.com/GsnapsNco/badge/badges/ba9d55ba-fc52-44da-bfcb-36e688425169.json",
+    "name": "Certified Tester Foundation Level Tester",
+    "description": "Certified with ISTQB CTFL",
+    "image": "https://github.com/GsnapsNco/badge/badges/ba9d55ba-fc52-44da-bfcb-36e688425169/image",
+    "criteria": {
+      "narrative": "Certified with ISTQB CTFL"
+    },
+    "issuer": {
+      "@context": "https://w3id.org/openbadges/v2",
+      "type": "Profile",
+      "id": "https://atsqa.org/certified-testers",
+      "name": "ASTQB",
+      "url": "https://atsqa.org/certified-testers",
+      "email": "info@astqb.org",
+      "description": "Official U.S. Board for ISTQB"
+    },
+    "tags": [
+      "certification"
+    ]
+  },
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2025-04-03T00:00:00Z",
+  "evidence": {
+    "id": "https://atsqa.org/certified-testers/profile/9e8c729d10914ea7a1c334ad80a6660c",
+    "narrative": "Credential record for C Stevens",
+    "name": "C Stevens \u2014 Credential Profile"
+  }
+}
