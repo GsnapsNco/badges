@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://gsnapsnco.github.io/badges/assertions/badge-class-ASTQB-CTFL.json",
+  "name": "CTFL",
+  "description": "successfully passed",
+  "image": "https://gsnapsnco.github.io/badges/assertions/badge-class-ASTQB-CTFL.png",
+  "criteria": {
+    "narrative": "successfully passed"
+  },
+  "issuer": "https://gsnapsnco.github.io/badges/issuers/astqb.json",
+  "tags": [
+    "certification"
+  ]
+}
