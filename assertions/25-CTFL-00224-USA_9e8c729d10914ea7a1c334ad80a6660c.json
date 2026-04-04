@@ -11,10 +11,10 @@
   "badge": {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "BadgeClass",
-    "id": "https://gsnapsnco.github.io/badges/badge-class/5e6c6f7d-268d-403e-9007-664d6d752695.json",
+    "id": "https://gsnapsnco.github.io/badges/assertions/badge-class-5e6c6f7d-268d-403e-9007-664d6d752695.json",
     "name": "CTFL",
     "description": "successfully passed",
-    "image": "https://gsnapsnco.github.io/badges/badge-class/5e6c6f7d-268d-403e-9007-664d6d752695/image",
+    "image": "https://gsnapsnco.github.io/badges/assertions/badge-class-5e6c6f7d-268d-403e-9007-664d6d752695-image.png",
     "criteria": {
       "narrative": "successfully passed"
     },
