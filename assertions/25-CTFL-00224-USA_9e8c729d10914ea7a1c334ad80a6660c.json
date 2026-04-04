@@ -3,8 +3,8 @@
   "type": "Assertion",
   "id": "https://gsnapsnco.github.io/badges/assertions/25-CTFL-00224-USA_9e8c729d10914ea7a1c334ad80a6660c.json",
   "recipient": {
-    "type": "id",
-    "identity": "sha256$e929c77e8178c71fc181248ed8538feb1b826e02af46162add91e93108e1ed68",
+    "type": "email",
+    "identity": "sha256$156ccb940ce69fa80e1b3a1e2f7b7d63cb1b4c297b7c0432e36c3acf1bd20184",
     "hashed": true,
     "salt": "openbadge2025"
   },
@@ -26,7 +26,7 @@
   "verification": {
     "type": "hosted"
   },
-  "issuedOn": "2026-04-04T00:00:00Z",
+  "issuedOn": "2026-04-04",
   "evidence": {
     "id": "https://atsqa.org/certified-testers/profile/9e8c729d10914ea7a1c334ad80a6660c",
     "narrative": "Credential record for C Stevens",
