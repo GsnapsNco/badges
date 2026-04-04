@@ -8,15 +8,7 @@
   "criteria": {
     "narrative": "successfully passed"
   },
-  "issuer": {
-    "@context": "https://w3id.org/openbadges/v2",
-    "type": "Profile",
-    "id": "https://astqb.org",
-    "name": "ASTQB",
-    "url": "https://astqb.org",
-    "email": "info@astqb.org",
-    "description": "ISTQB"
-  },
+  "issuer": "https://gsnapsnco.github.io/badges/issuers/astqb.json",
   "tags": [
     "certification"
   ]
