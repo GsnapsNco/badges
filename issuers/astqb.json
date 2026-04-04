@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Profile",
+  "id": "https://gsnapsnco.github.io/badges/issuers/astqb.json",
+  "name": "ASTQB",
+  "url": "https://astqb.org",
+  "email": "info@astqb.org",
+  "description": "ISTQB"
+}
