@@ -25,7 +25,7 @@
   "validFrom": "2026-08-17T00:00:00Z",
   "name": "ISTQB Foundation Level",
   "credentialSubject": {
-    "id": "urn:uuid:ce0f40cbbff1a6ab299e3c808afa7382",
+    "id": "urn:uuid:2cb87f44caf373eac65b80514dc0c0d6",
     "type": [
       "AchievementSubject"
     ],
@@ -49,7 +49,7 @@
     },
     "identifier": {
       "type": "IdentityObject",
-      "identityHash": "sha256$9aaf98cfc3743d4605fee6379df6146419dc1c3a7f53597c2e7c1928f457da0c",
+      "identityHash": "sha256$e582f42143ff0f5ac7cea7b1ad7f81b109ea813a1712604f0c1f9451ff276951",
       "identityType": "emailAddress",
       "hashed": true,
       "salt": "openbadge2025"
@@ -70,8 +70,8 @@
       "type": [
         "Evidence"
       ],
-      "name": "C Stevens \u2014 Credential Profile",
-      "narrative": "Credential record for C Stevens"
+      "name": "Maggie Murry \u2014 Credential Profile",
+      "narrative": "Credential record for Maggie Murry"
     }
   ],
   "proof": {
@@ -80,6 +80,6 @@
     "created": "2026-08-17T00:00:00Z",
     "verificationMethod": "did:web:astqb.org#key-1",
     "proofPurpose": "assertionMethod",
-    "proofValue": "SFzTXTGqApiK6iBkLQ5NlaW5X1XRrgQeez7tNLFhuOZ4WTAit08hf18HI8YzJ1SC9Pb84TUxnGBZJkbbm0M4Dw"
+    "proofValue": "1OKK36aqgst-jdAtEDPUzALwTJzBQp4eHyePBDpdgicDaM1BsOE4Wo9wLPB_OTMvGU_JfOnMzho-QSAS71HYAg"
   }
 }
