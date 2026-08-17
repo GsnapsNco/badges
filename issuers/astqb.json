@@ -1,9 +1,21 @@
 {
-  "@context": "https://w3id.org/openbadges/v2",
-  "type": "Profile",
-  "id": "https://gsnapsnco.github.io/badges/issuers/astqb.json",
+  "@context": [
+    "https://www.w3.org/ns/credentials/v2",
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.3.json"
+  ],
+  "id": "did:web:astqb.org",
+  "type": [
+    "Profile"
+  ],
   "name": "ASTQB",
   "url": "https://astqb.org",
   "email": "info@astqb.org",
-  "description": "ISTQB"
+  "description": "ISTQB",
+  "publicKey": [
+    {
+      "id": "https://gsnapsnco.github.io/badges/issuers/public_key.jwk",
+      "type": "Ed25519VerificationKey2020",
+      "controller": "did:web:astqb.org"
+    }
+  ]
 }
