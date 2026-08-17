@@ -1,0 +1,85 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/credentials/v2",
+    "https://purl.imsglobal.org/spec/ob/v3p0/context-3.0.3.json"
+  ],
+  "id": "https://gsnapsnco.github.io/badges/assertions/25-CTFL-00224-USA_9e8c729d10914ea7a1c334ad80a6660c.json",
+  "type": [
+    "VerifiableCredential",
+    "OpenBadgeCredential"
+  ],
+  "issuer": {
+    "id": "did:web:astqb.org",
+    "type": [
+      "Profile"
+    ],
+    "name": "ASTQB",
+    "url": "https://astqb.org",
+    "email": "info@astqb.org",
+    "description": "ISTQB",
+    "image": {
+      "id": "https://gsnapsnco.github.io/badges/issuers/astqb-logo.png",
+      "type": "Image"
+    }
+  },
+  "validFrom": "2026-08-17T00:00:00Z",
+  "name": "ISTQB Foundation Level",
+  "credentialSubject": {
+    "id": "urn:uuid:ce0f40cbbff1a6ab299e3c808afa7382",
+    "type": [
+      "AchievementSubject"
+    ],
+    "achievement": {
+      "id": "https://gsnapsnco.github.io/badges/assertions/badge-class-ASTQB-ISTQBFoundationLevel.json",
+      "type": [
+        "Achievement"
+      ],
+      "name": "ISTQB Foundation Level",
+      "description": "successfully passed",
+      "criteria": {
+        "narrative": "successfully passed"
+      },
+      "image": {
+        "id": "https://gsnapsnco.github.io/badges/assertions/badge-class-ASTQB-ISTQBFoundationLevel.png",
+        "type": "Image"
+      },
+      "tag": [
+        "certification"
+      ]
+    },
+    "identifier": {
+      "type": "IdentityObject",
+      "identityHash": "sha256$9aaf98cfc3743d4605fee6379df6146419dc1c3a7f53597c2e7c1928f457da0c",
+      "identityType": "emailAddress",
+      "hashed": true,
+      "salt": "openbadge2025"
+    },
+    "result": [
+      {
+        "type": [
+          "Result"
+        ],
+        "status": "Completed",
+        "achievedLevel": "Certified Tester"
+      }
+    ]
+  },
+  "evidence": [
+    {
+      "id": "https://atsqa.org/certified-testers/profile/9e8c729d10914ea7a1c334ad80a6660c",
+      "type": [
+        "Evidence"
+      ],
+      "name": "C Stevens \u2014 Credential Profile",
+      "narrative": "Credential record for C Stevens"
+    }
+  ],
+  "proof": {
+    "type": "DataIntegrityProof",
+    "cryptosuite": "eddsa-rdfc-2022",
+    "created": "2026-08-17T00:00:00Z",
+    "verificationMethod": "did:web:astqb.org#key-1",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "SFzTXTGqApiK6iBkLQ5NlaW5X1XRrgQeez7tNLFhuOZ4WTAit08hf18HI8YzJ1SC9Pb84TUxnGBZJkbbm0M4Dw"
+  }
+}
